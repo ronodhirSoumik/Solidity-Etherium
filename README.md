@@ -1,6 +1,6 @@
 Smart contract plays a critical role in blockchain technology. I explored the basic structure of solidity along with its implementation on creating, deploying and interating with chaincode.I use Remix web IDE. 
 
-Related References: Solidity
+## Related References: Solidity
 1. [Remix- Solidity IDE](https://remix-ide.readthedocs.io/en/latest/)
 2. [Solidity- Smart Contract](https://solidity.readthedocs.io/en/develop/structure-of-a-contract.html#structure-state-variables)
 3. [Blockgeeks](https://blockgeeks.com/guides/solidity/)
@@ -14,7 +14,7 @@ Related References: Solidity
 
 
 
-Related References: Smart Contract
+## Related References: Smart Contract
 1. [Smart Contracts- Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
 1. [Smart Contratc structure](https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html)
 2. [Decoding Bitcoin Mining](https://medium.com/all-things-ledger/decoding-the-enigma-of-bitcoin-mining-f8b2697bc4e2)
