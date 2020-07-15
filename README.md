@@ -13,6 +13,7 @@ Related References: Solidity
 10. [Technical Introduction to Events and Logs in Ethereum](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
 
 
+
 Related References: Smart Contract
 1. [Smart Contracts- Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
 1. [Smart Contratc structure](https://ethdocs.org/en/latest/contracts-and-transactions/account-types-gas-and-transactions.html)
