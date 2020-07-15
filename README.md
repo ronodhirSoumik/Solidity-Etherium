@@ -7,7 +7,7 @@ Related References: Solidity
 4. [What is solidity](https://blockonomi.com/solidity-guide/)
 5. [Solidity functions, modifiers](https://www.youtube.com/watch?v=xWKq86PWG0o)
 6. [Intro to Solidity](https://www.youtube.com/watch?v=KkN1O8TChbM)
-7. [Learning Solidity](Data Types - https://www.youtube.com/watch?v=8UhO3IKApSg)
+7. [Learning Solidity (Data Types)](https://www.youtube.com/watch?v=8UhO3IKApSg)
 8. [Solidity functions (assert, revert)](https://medium.com/blockchannel/the-use-of-revert-assert-and-require-in-solidity-and-the-new-revert-opcode-in-the-evm-1a3a7990e06e)
 9. [Smart Contract Events](https://www.youtube.com/watch?v=L5Au5DY8eL4)
 10. [Technical Introduction to Events and Logs in Ethereum](https://media.consensys.net/technical-introduction-to-events-and-logs-in-ethereum-a074d65dd61e)
